@@ -1,0 +1,14 @@
+array (
+  'id' => 10,
+  'start_time' => 1464452100,
+  'inter_val' => 1440,
+  'run_file' => 'auto_del_news.php',
+  'run_func' => 'cron_auto_del_news',
+  'params' => 'news,news,1,155520000,',
+  'del' => 1,
+  'is_sys' => 0,
+  'act' => 1,
+  'last_time' => 0,
+  'last_result' => 0,
+  'vi_cron_name' => 'Xóa Tin Đăng Quá Hạn',
+)
